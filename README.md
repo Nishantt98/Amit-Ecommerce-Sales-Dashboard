@@ -24,9 +24,10 @@ Profit by Sub-Category (Geographic): A horizontal bar chart compares profitabili
 
 Sum of Amount by Customer Name: A bar chart identifies the top-spending customers, with Harivansh and Madhav being the leaders in total purchase amount.
 
-Screenshot/ demo
-show what the dashboard look like - ![Alt text]()
-
 Sum of Quantity by Category: A donut chart shows the distribution of sales quantity across major product categories, helping to pinpoint high-volume segments.
 
 Profit by Sub-Category (Product): A horizontal bar chart showcases the profitability of individual product sub-categories like Printers, Bookcases, and Sarees.
+
+Screenshot/ demo
+show what the dashboard look like - ![Alt text](https://github.com/Nishantt98/Amit-Ecommerce-Sales-Dashboard/blob/main/Dashboard.png)
+Example -![Dashboard preview](https://github.com/Nishantt98/Amit-Ecommerce-Sales-Dashboard/blob/main/Dashboard.png) 
