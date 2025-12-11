@@ -28,6 +28,5 @@ Sum of Quantity by Category: A donut chart shows the distribution of sales quant
 
 Profit by Sub-Category (Product): A horizontal bar chart showcases the profitability of individual product sub-categories like Printers, Bookcases, and Sarees.
 
-Screenshot/ demo
+Screenshot/ demo - 
 show what the dashboard look like - ![Alt text](https://github.com/Nishantt98/Amit-Ecommerce-Sales-Dashboard/blob/main/Dashboard.png)
-Example -![Dashboard preview](https://github.com/Nishantt98/Amit-Ecommerce-Sales-Dashboard/blob/main/Dashboard.png) 
